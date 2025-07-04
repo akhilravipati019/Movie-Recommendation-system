@@ -63,7 +63,24 @@ The model for recommending movies is based on cosine similarity. Cosine similari
 
 The system provides the top 10 recommended movies for any selected movie title. It also fetches and displays the posters of these recommended movies using the TMDB API.
 
-![Web View 1](./image.png) 
-![Web View 2](./image%20copy.png) 
-![Web View 3](./image%20copy%202.png)
+### 1. App on Launch
 
+This is the initial screen when the Streamlit app is first opened.
+
+![App on Launch](./image.png)
+
+---
+
+### 2. Movie Selection (Search Bar)
+
+User selects a movie from the dropdown list to generate recommendations.
+
+![Movie Selection](./image%20copy.png)
+
+---
+
+### 3. Recommended Movies with Posters
+
+After clicking "Recommend", the top 10 similar movies are displayed along with their posters.
+
+![Recommended Movies](./image%20copy%202.png)
