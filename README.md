@@ -67,7 +67,7 @@ The system provides the top 10 recommended movies for any selected movie title. 
 
 This is the initial screen when the Streamlit app is first opened.
 
-<img src="image%20copy.png" width="400" style="border: 2px solid white; border-radius: 8px;"/>
+![App on Launch](./image%20copy.png)
 
 ---
 
@@ -75,7 +75,7 @@ This is the initial screen when the Streamlit app is first opened.
 
 User selects a movie from the dropdown list to generate recommendations.
 
-<img src="image%20copy%202.png" width="400" style="border: 2px solid white; border-radius: 8px;"/>
+![Movie Selection](./image%20copy%202.png)
 
 ---
 
@@ -83,4 +83,4 @@ User selects a movie from the dropdown list to generate recommendations.
 
 After clicking "Recommend", the top 10 similar movies are displayed along with their posters.
 
-<img src="image.png" width="400" style="border: 2px solid white; border-radius: 8px;"/>
+![Recommended Movies](./image.png)
